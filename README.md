@@ -10,3 +10,8 @@
 
 [Тест №1](https://docs.google.com/forms/d/e/1FAIpQLSd7cL102TQXJBvOj81E574nqqYy1_R_oriAr0yAqspQ93Zy2w/viewform)
 
+---
+
+[Ведомость вычисления координат точек теодолитного хода 1](Ведомость_координат_хода1.pdf)
+
+[Тест №2](https://docs.google.com/forms/d/e/1FAIpQLSeujQy8-LKK65H_A_0DRKqAcTklOX64-ovH8izvnDtrMWkNDw/viewform)

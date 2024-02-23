@@ -4,6 +4,8 @@
 
 [Варианты исходных данных](Варианты.md)
 
+---
+
 [Журнал теодолитного хода 1](Теод.ход1.pdf)
 
 [Журнал теодолитного хода 2](Теод.ход2.pdf)
@@ -15,3 +17,10 @@
 [Ведомость вычисления координат точек теодолитного хода 1](Ведомость_координат_хода1.pdf)
 
 [Тест №2](https://docs.google.com/forms/d/e/1FAIpQLSeujQy8-LKK65H_A_0DRKqAcTklOX64-ovH8izvnDtrMWkNDw/viewform)
+
+---
+
+[Ведомость вычисления координат точек теодолитного хода 2](Ведомость_координат_хода2.pdf)
+
+[Тест №3](https://docs.google.com/forms/d/e/1FAIpQLSfMRRRf9XKwtshnm-hlt1XDRTOJzUcLVFFQNMsDjOSptbLoyw/viewform)
+

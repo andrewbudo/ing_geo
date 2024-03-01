@@ -24,3 +24,11 @@
 
 [Тест №3](https://docs.google.com/forms/d/e/1FAIpQLSfMRRRf9XKwtshnm-hlt1XDRTOJzUcLVFFQNMsDjOSptbLoyw/viewform)
 
+---
+
+[Журнал нивелирного хода 1](Нив.ход1.pdf)
+
+[Журнал нивелирного хода 2](Нив.ход2.pdf)
+
+[Тест №4](https://docs.google.com/forms/d/e/1FAIpQLSe-KXXF3k5wu7j0phQAbX-KS6nVwlWYVgkiWWKMER80kc6lwA/viewform)
+

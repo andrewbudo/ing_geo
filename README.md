@@ -38,7 +38,7 @@
 
 [Журнал нивелирования по квадратам](Нив_по_квадратам.pdf)
 
-[Картограмма земельных масс](Картограмма.pdf)
+[Картограмма земляных работ (образец)](Картограмма.pdf)
 
 [Тест №5](https://docs.google.com/forms/d/e/1FAIpQLSfzxgewS7rDYCNiEd8tFtHiDl0odhI1Qj8HdYQQ_WLclLOfCg/viewform)
 

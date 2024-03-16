@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230.31827641008329 231.1960857241246" width="230.31827641008329" height="231.1960857241246">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://file%2B.vscode-resource.vscode-cdn.net/d%3A/git_b490/VSCode/data/extensions/pomdtr.excalidraw-editor-3.7.3/public//dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://file%2B.vscode-resource.vscode-cdn.net/d%3A/git_b490/VSCode/data/extensions/pomdtr.excalidraw-editor-3.7.3/public//dist/excalidraw-assets/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://file%2B.vscode-resource.vscode-cdn.net/d%3A/git_b490/VSCode/data/extensions/pomdtr.excalidraw-editor-3.7.3/public//dist/excalidraw-assets/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="230.31827641008329" height="231.1960857241246" fill="#ffffff"></rect><g stroke-linecap="round"><g transform="translate(10 107.90371191539678) rotate(0 105.15913820504164 7.6943309466655165)"><path d="M0 0 C33.02 -38.52, 66.04 -77.04, 83.92 -97.9 M0 0 C24.16 -28.19, 48.32 -56.37, 83.92 -97.9 M83.92 -97.9 C113.08 -82.46, 142.25 -67.01, 210.32 -30.97 M83.92 -97.9 C121.46 -78.02, 159.01 -58.14, 210.32 -30.97 M210.32 -30.97 C161.55 25.64, 112.78 82.24, 86.02 113.29 M210.32 -30.97 C178.39 6.08, 146.47 43.14, 86.02 113.29 M86.02 113.29 C55.45 73.03, 24.89 32.78, 0 0 M86.02 113.29 C63.64 83.82, 41.27 54.35, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g></g><mask></mask><g transform="translate(26.50239988995827 99.88560438473836) rotate(0 10.498748779296875 12.5)"><text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">β₁</text></g><g transform="translate(89.46037721871357 20.4980214997576) rotate(0 10.498748779296875 12.5)"><text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">β₂</text></g><g transform="translate(180.66038942574482 68.29802455151541) rotate(0 10.498748779296875 12.5)"><text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">β₃</text></g><g transform="translate(87.26036501168232 179.89806117260918) rotate(0 10.498748779296875 12.5)"><text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">β₄</text></g></svg>

@@ -38,8 +38,12 @@
 
 [Журнал нивелирования по квадратам](Нив_по_квадратам.pdf)
 
-[Картограмма земляных работ (образец)](Картограмма.pdf)
-
 [Тест №5](https://docs.google.com/forms/d/e/1FAIpQLSfzxgewS7rDYCNiEd8tFtHiDl0odhI1Qj8HdYQQ_WLclLOfCg/viewform)
 
+---
 
+[Вертикальная планировка](Организация_рельефа_и_зем.работы.pdf)
+
+[Картограмма земляных работ (образец)](Картограмма.pdf)
+
+[Тест №6](https://docs.google.com/forms/d/e/1FAIpQLSdsGWCbOcMRihjo8kqFSNVWh9UL1VDkkeEqe9mtMzxi-DM7sA/viewform)

@@ -47,3 +47,11 @@
 [Картограмма земляных работ (образец)](Картограмма.pdf)
 
 [Тест №6](https://docs.google.com/forms/d/e/1FAIpQLSdsGWCbOcMRihjo8kqFSNVWh9UL1VDkkeEqe9mtMzxi-DM7sA/viewform)
+
+---
+
+[Журнал тахеометрической съёмки 1](Тах.съёмка1.pdf)
+
+[Журнал тахеометрической съёмки 2](Тах.съёмка2.pdf)
+
+[Тест №7](https://docs.google.com/forms/d/e/1FAIpQLScMTZMfwGhK_W2qUzgZsGhmD9FF-N65Ev6QaB7hWI9c8Bd2dg/viewform)

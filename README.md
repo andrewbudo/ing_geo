@@ -55,3 +55,10 @@
 [Журнал тахеометрической съёмки 2](ЛР6/Тах.съемка2.pdf)
 
 [Тест №7](https://docs.google.com/forms/d/e/1FAIpQLScMTZMfwGhK_W2qUzgZsGhmD9FF-N65Ev6QaB7hWI9c8Bd2dg/viewform)
+
+---
+
+[Пример оформления топоплана](ЛР7/Оформление_топоплана.pdf)
+
+[Тест №8](https://docs.google.com/forms/d/e/1FAIpQLSdfN5qvdkMQTiDCLch8psxgV0nyWVlj6Pqjh_NgDWw2m4ZktA/viewform)
+

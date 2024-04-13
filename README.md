@@ -71,7 +71,7 @@
 <details>
   <summary>Лабораторная работа #8</summary>  
 
-  [Варианты исходных данных](ЛР8/Варианты(профиль).pdf)<br>
+  [Варианты исходных данных](ЛР8/Варианты(профиль).md)<br>
   [Журнал полевого трассирования](ЛР8/Полевое_трассирование.pdf)<br>
   [Тест №9](https://docs.google.com/forms/d/e/1FAIpQLSebRMRts4nNN1ohdFkrrxY68zZpieh9LCsW7tkOveBEtZAZrw/viewform)
 </details>

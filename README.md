@@ -67,3 +67,11 @@
   [Пример оформления топоплана](ЛР7/Оформление_топоплана.pdf)<br>
   [Тест №8](https://docs.google.com/forms/d/e/1FAIpQLSdfN5qvdkMQTiDCLch8psxgV0nyWVlj6Pqjh_NgDWw2m4ZktA/viewform)
 </details>
+
+<details>
+  <summary>Лабораторная работа #8</summary>  
+
+  [Варианты исходных данных](ЛР8/Варианты(профиль).pdf)<br>
+  [Журнал полевого трассирования](ЛР8/Полевое_трассирование.pdf)<br>
+  [Тест №9](https://docs.google.com/forms/d/e/1FAIpQLSebRMRts4nNN1ohdFkrrxY68zZpieh9LCsW7tkOveBEtZAZrw/viewform)
+</details>

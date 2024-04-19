@@ -75,3 +75,10 @@
   [Журнал полевого трассирования](ЛР8/Полевое_трассирование.pdf)<br>
   [Тест №9](https://docs.google.com/forms/d/e/1FAIpQLSebRMRts4nNN1ohdFkrrxY68zZpieh9LCsW7tkOveBEtZAZrw/viewform)
 </details>
+
+<details>
+  <summary>Лабораторная работа #9</summary>  
+  
+  [Пример оформления профиля трассы](ЛР9/Оформление_профиля.pdf)<br>
+  [Тест №10](https://docs.google.com/forms/d/e/1FAIpQLSdwiL8SKamOF2tlUMwJjKBMPbxOQdmSOuzrsiikIFzdPn05TQ/viewform)
+</details>

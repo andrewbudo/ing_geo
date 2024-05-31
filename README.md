@@ -82,3 +82,9 @@
   [Пример оформления профиля трассы](ЛР9/Оформление_профиля.pdf)<br>
   [Тест №10](https://docs.google.com/forms/d/e/1FAIpQLSdwiL8SKamOF2tlUMwJjKBMPbxOQdmSOuzrsiikIFzdPn05TQ/viewform)
 </details>
+
+<details>
+  <summary>Экзамен</summary>  
+  
+  [Список вопросов](Экзамен.md)<br>
+</details>

@@ -2,7 +2,7 @@
 
 [Табель успеваемости](https://docs.google.com/spreadsheets/d/1aSLuZsMVaOwBzPnUX9lAEy2Ca6RQR0yOJeE3apmIQ0Q/edit?usp=sharing)
 
-[Варианты исходных данных](Варианты.md)
+[Варианты исходных данных](Варианты(топоплан).md)
 
 [ТГ-канал тех.поддержки (подробно опишите свою проблему)](https://t.me/joinchat/H5AXSBVrm-l5lWtoAkvOBQ)
 
